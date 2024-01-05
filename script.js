@@ -5,9 +5,9 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Splendid, więc zaprszam Cię na randeczkę ;3";
+  question.innerHTML = "Cudownie, rezerwuj w kalendarzu: 3.02.2024r. ^^";
   gif.src =
-    "https://media.giphy.com/media/VKUSdDIW7vXWwTFCtf/giphy.gif";
+    "https://media.giphy.com/media/VJAtOCJks1aQoIiPIb/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
